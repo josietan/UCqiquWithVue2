@@ -136,7 +136,7 @@ module.exports = {
 };
 ```
 ## vue与vuex配合的mai.js 文件：
-``javascript
+```javascript
 import Vue from "vue";
 import VueRouter from "vue-router";
 import store from "./store/store.js";
